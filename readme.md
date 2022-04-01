@@ -20,9 +20,9 @@ You can connect to the file by a global CSS file, available for everyone.<br>HTM
 ## Collections
 Collections are a specific spaces where you can find only the collection you're looking for.
 
-| Name         | Reference | HTML example  |
+| Name                    | Reference                    | HTML example                    |
 | ------------ | --------- | ------------- |
-| Discord Buttons | `https://devvali.github.io/Boostyle/collections/COLLECTION_NAME.css` | `<link rel="stylesheet" href="https://devvali.github.io/Boostyle/collections/COLLECTION_NAME.css">`    |
+| Discord Buttons | ```html https://devvali.github.io/Boostyle/collections/discord-buttons.css``` | `<link rel="stylesheet" href="https://devvali.github.io/Boostyle/collections/discord-buttons.css">`    |
 
 ## Team
 
