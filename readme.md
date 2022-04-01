@@ -12,7 +12,7 @@ You can connect to the file by a global CSS file, available for everyone.<br>HTM
 ```html
 <link rel="stylesheet" href="https://devvali.github.io/Boostyle/index.css">
 ```
-*or* use a specific collection link
+*or* use a specific collection reference
 ```html
 <link rel="stylesheet" href="https://devvali.github.io/Boostyle/collections/COLLECTION_NAME.css">
 ```
