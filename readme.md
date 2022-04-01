@@ -4,7 +4,25 @@
 
 ## Intro
 
-Welcome to Boostyle, collection of CSS styles. This project is a new choose of styling your webpages.<br>You can use the collection via a global link or just download it and use your own local link.<br>No limitations, open source for everyone. Style webpages with us.
+Welcome to Boostyle, collection of CSS styles. This project is a new choose of styling your webpages.<br>You can use the collection via a global CSS file or just download it and use your own local CSS file.<br>No limitations, open source for everyone. Style webpages.
+
+## Global CSS file
+
+You can connect to the file by a global CSS file, available for everyone.<br>HTML example:
+```html
+<link rel="stylesheet" href="https://devvali.github.io/Boostyle/index.css">
+```
+*or* use a specific collection link
+```html
+<link rel="stylesheet" href="https://devvali.github.io/Boostyle/collections/COLLECTION_NAME.css">
+```
+
+## Collections
+Collections are a specific spaces where you can find only the collection you're looking for.
+
+| Name         | Reference | HTML example  |
+| ------------ | --------- | ------------- |
+| Discord Buttons | `https://devvali.github.io/Boostyle/collections/COLLECTION_NAME.css` | `<link rel="stylesheet" href="https://devvali.github.io/Boostyle/collections/COLLECTION_NAME.css">`    |
 
 ## Team
 
