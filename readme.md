@@ -23,7 +23,6 @@ Collections are a specific spaces where you can find only the collection you're 
 | Name
 | ------------
 | Buttons
-| ------------
 | Navigation
 
 ## Team
