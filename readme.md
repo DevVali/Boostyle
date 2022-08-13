@@ -1,4 +1,4 @@
-# Boostyle v1.0.3
+# Boostyle v1.0.4
 
 > Boostyle is a collection of CSS styles.
 
@@ -22,7 +22,8 @@ Collections are a specific spaces where you can find only the collection you're 
 
 | Name
 | ------------
-| Discord Buttons
+| Buttons
+| Navigation
 
 ## Team
 
