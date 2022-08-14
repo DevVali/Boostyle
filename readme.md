@@ -1,4 +1,4 @@
-# Boostyle v1.0.5
+# Boostyle v1.0.6
 
 > Boostyle is a collection of CSS styles.
 
