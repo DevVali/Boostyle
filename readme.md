@@ -27,7 +27,7 @@ Collections are a specific spaces where you can find only the collection you're 
 
 ## Team
 
-Boostyle is a project created by @DevVali.
+Boostyle is a project created by [Vali](https://github.com/devvali).
 
 ## Community
 
